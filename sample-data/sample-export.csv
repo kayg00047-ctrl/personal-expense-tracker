@@ -1,0 +1,28 @@
+Expense Analysis,,,
+,,,
+Metric,,,
+Total Spending,$0.00,,
+Average Transaction,$75.51,,
+Number of Transactions,$8.50,,
+Highest Expense,$299.99,,
+Lowest Expense,"$7,550.64",,
+Median Expense,$48.83,,
+,,,
+Category Analysis,,,
+Cetegory,Total Spent,Count,Average
+Food & Dining,2215.28,38,58.29684211
+Transportation,0,0,#DIV/0!
+Shopping,1746.95,13,134.3807692
+Entertainment,255.93,9,28.43666667
+Bills & Utilities,1327,10,132.7
+Healthcare,428,6,71.33333333
+Education,723.99,4,180.9975
+Other,297.99,4,74.4975
+,,,
+,,,
+Monthly Spending,,,
+Month,Total,,
+Dec-24,4323.83,,
+Jan-25,3226.81,,
+Difference,-1097.02,,
+% Change,-25%,,

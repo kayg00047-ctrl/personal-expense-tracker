@@ -1,0 +1,20 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / temporary
+*.log
+*.tmp
+
+# IntelliJ (if ever used)
+.idea/
+*.iml
