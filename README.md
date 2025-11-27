@@ -1,3 +1,5 @@
+# PLEASE NOTE - v1.0 IS NON-FUNCTIONING. 
+
 # Personal Expense Tracker
 
 ![Java](https://img.shields.io/badge/Java-17+-blue.svg)
@@ -150,7 +152,3 @@ mvn exec:java -Dexec.mainClass="com.yourname.expensetracker.ExpenseTrackerApp"
 | updated_at | TIMESTAMP | DEFAULT CURRENT_TIMESTAMP |
 
 See [Database Schema Diagram](docs/diagrams/database-schema.md) for visual representation.
-
-##  Usage Examples
-
-### Adding a Transaction
